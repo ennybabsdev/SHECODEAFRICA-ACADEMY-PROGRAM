@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    Height: 150px;
+}
+
+.col-md-4 {
+    text-align: center;
+}
